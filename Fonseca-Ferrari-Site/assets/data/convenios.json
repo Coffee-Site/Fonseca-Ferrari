@@ -1,0 +1,44 @@
+{
+  "convenios": [
+    {
+      "id": "sulamerica",
+      "nome": "SulAmérica",
+      "imagem": "assets/images/convenios/sulamerica.jpg",
+      "coberturas": [
+        "Implante",
+        "Clareamento",
+        "Canal (Endodontia)",
+        "Restaurações",
+        "Extrações/Cirurgia (Exceto Sisos)",
+        "Raspagem (Limpeza)",
+        "Aparelho (Ortodontia)"
+      ]
+    },
+    {
+      "id": "brazil-dental",
+      "nome": "Rede Brazil Dental",
+      "subtitulo": "Prevident, Bioral, Calcard, Nossa Saúde, Servir, Saúde Odonto, CASSEMS, W. Dental, Pernambucanas Odonto, OdontoSeg",
+      "imagem": "assets/images/convenios/brazil-dental.jpg",
+      "coberturas": [
+        "Clareamento",
+        "Canal (Endodontia)",
+        "Próteses (Total e Removível)",
+        "Coroa (Porcelana, Resina, Cerômero, Metálica)",
+        "Restaurações",
+        "Extrações/Cirurgia (Exceto Sisos)",
+        "Raspagem (Limpeza)",
+        "Aparelho (Ortodontia)"
+      ]
+    },
+    {
+      "id": "hapvida",
+      "nome": "Hapvida Intermédica",
+      "imagem": "assets/images/convenios/hapvida.jpg",
+      "coberturas": [
+        "Restaurações",
+        "Raspagem (Limpeza)",
+        "Aparelho (Ortodontia)"
+      ]
+    }
+  ]
+}

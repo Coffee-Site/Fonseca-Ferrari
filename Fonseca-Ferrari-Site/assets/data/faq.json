@@ -1,0 +1,34 @@
+{
+  "perguntas": [
+    {
+      "id": "faq-01",
+      "pergunta": "Quais especialidades a Fonseca Ferrari atende?",
+      "resposta": "Atendemos Ortodontia, Implantes, Facetas, Canal (Endodontia) e Clínico Geral, incluindo bruxismo, restaurações e limpeza."
+    },
+    {
+      "id": "faq-02",
+      "pergunta": "Quais convênios vocês aceitam?",
+      "resposta": "Aceitamos SulAmérica, Rede Brazil Dental (Prevident, Bioral, Calcard, Nossa Saúde, Servir, Saúde Odonto, CASSEMS, W. Dental, Pernambucanas Odonto, OdontoSeg) e Hapvida Intermédica. Cada convênio tem uma cobertura específica — confira na seção de Convênios ou fale com a gente."
+    },
+    {
+      "id": "faq-03",
+      "pergunta": "Qual o horário de funcionamento?",
+      "resposta": "Atendemos de segunda a sexta das 8h às 12h e das 14h às 18h, e aos sábados das 8h às 12h. Aos domingos não abrimos."
+    },
+    {
+      "id": "faq-04",
+      "pergunta": "Como agendar uma consulta?",
+      "resposta": "Você pode agendar diretamente pelo WhatsApp, clicando no botão de agendamento no site, ou ligando para (11) 99912-8082."
+    },
+    {
+      "id": "faq-05",
+      "pergunta": "A clínica atende sem convênio, particular?",
+      "resposta": "Sim, atendemos pacientes particulares em todas as especialidades. Entre em contato para saber mais sobre valores e condições."
+    },
+    {
+      "id": "faq-06",
+      "pergunta": "Onde fica a clínica?",
+      "resposta": "Estamos na Estr. São Francisco, 1199 - Jardim Henriqueta, Taboão da Serra - SP."
+    }
+  ]
+}

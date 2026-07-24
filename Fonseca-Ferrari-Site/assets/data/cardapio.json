@@ -1,0 +1,82 @@
+{
+  "categorias": [
+    {
+      "id": "ortodontia",
+      "nome": "Ortodontia",
+      "itens": [
+        {
+          "id": "or-01",
+          "nome": "Aparelho Ortodôntico",
+          "descricao": "Tratamento completo para alinhamento dos dentes, devolvendo função e estética ao sorriso.",
+          "imagem": "assets/images/servicos/sobre-clinica.jpg",
+          "tags": ["ortodontia"],
+          "destaque": true
+        }
+      ]
+    },
+    {
+      "id": "implantes",
+      "nome": "Implantes",
+      "itens": [
+        {
+          "id": "im-01",
+          "nome": "Implantes Dentários",
+          "descricao": "Reposição de dentes perdidos com tecnologia e planejamento individualizado para cada paciente.",
+          "imagem": "assets/images/servicos/sorriso-destaque.jpg",
+          "tags": ["implante"],
+          "destaque": true
+        }
+      ]
+    },
+    {
+      "id": "facetas",
+      "nome": "Facetas",
+      "itens": [
+        {
+          "id": "fc-01",
+          "nome": "Facetas Estéticas",
+          "descricao": "Lentes e facetas para harmonizar a forma, cor e alinhamento dos dentes, com resultado natural.",
+          "imagem": "assets/images/servicos/promocional-2.jpg",
+          "tags": ["estética"],
+          "destaque": true
+        }
+      ]
+    },
+    {
+      "id": "canal",
+      "nome": "Canal (Endodontia)",
+      "itens": [
+        {
+          "id": "cn-01",
+          "nome": "Tratamento de Canal",
+          "descricao": "Tratamento endodôntico realizado com cuidado e conforto para eliminar a dor e preservar o dente.",
+          "imagem": "assets/images/servicos/promocional-1.jpg",
+          "tags": ["endodontia"],
+          "destaque": false
+        }
+      ]
+    },
+    {
+      "id": "clinico-geral",
+      "nome": "Clínico Geral",
+      "itens": [
+        {
+          "id": "cg-01",
+          "nome": "Bruxismo",
+          "descricao": "Diagnóstico e tratamento do bruxismo, prevenindo o desgaste e a dor causados pelo hábito de ranger os dentes.",
+          "imagem": "assets/images/servicos/bruxismo.jpg",
+          "tags": ["clínico geral"],
+          "destaque": false
+        },
+        {
+          "id": "cg-02",
+          "nome": "Restaurações e Limpeza",
+          "descricao": "Cuidado preventivo e restaurador para manter a saúde bucal em dia, com raspagem e restaurações.",
+          "imagem": "assets/images/servicos/story-marca.jpg",
+          "tags": ["prevenção"],
+          "destaque": false
+        }
+      ]
+    }
+  ]
+}

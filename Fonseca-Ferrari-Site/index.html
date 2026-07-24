@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Fonseca Ferrari Odontologia Integrada | Clínica em Taboão da Serra</title>
+<meta name="description" content="Clínica Odontológica em Taboão da Serra. Ortodontia, Implantes, Facetas, Canal e Clínico Geral. Atendimento humanizado. Aceitamos SulAmérica, Hapvida e Rede Brazil Dental.">
+
+<!-- PWA / Ícones -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="assets/images/favicon/favicon.ico">
+<link rel="apple-touch-icon" href="assets/images/icons/apple-touch-icon-180x180.png">
+<meta name="theme-color" content="#16283A">
+
+<!-- Estilos: ordem importa (tokens → base → componentes → responsivo → animações) -->
+<link rel="stylesheet" href="assets/css/variables.css">
+<link rel="stylesheet" href="assets/css/style.css">
+<link rel="stylesheet" href="assets/css/components.css">
+<link rel="stylesheet" href="assets/css/responsive.css">
+<link rel="stylesheet" href="assets/css/animations.css">
+</head>
+<body>
+<header>
+  <div class="container">
+    <nav>
+      <a class="logo" href="#hero"><img src="assets/images/logo/logo-fundo-branco.png" alt="Fonseca Ferrari Odontologia Integrada" height="56"></a>
+      <ul class="menu">
+        <li><a href="#hero">Início</a></li>
+        <li><a href="#sobre">Sobre</a></li>
+        <li><a href="#cardapio">Especialidades</a></li>
+        <li><a href="#convenios">Convênios</a></li>
+        <li><a href="#galeria">Galeria</a></li>
+        <li><a href="#depoimentos">Avaliações</a></li>
+        <li><a href="#contato">Contato</a></li>
+      </ul>
+      <a class="btn" href="#" data-whatsapp-msg="Olá! Gostaria de agendar uma consulta na Fonseca Ferrari Odontologia Integrada.">Agendar Consulta</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+<section id="hero" class="hero">
+<div class="container hero-grid">
+<div>
+<h1>Promovendo seu melhor sorriso.</h1>
+<p>Clínica odontológica em Taboão da Serra especializada em Ortodontia, Implantes, Facetas e Canal, com atendimento humanizado e personalizado para cada paciente.</p>
+<div class="hero-buttons">
+<a class="btn" href="#" data-whatsapp-msg="Olá! Gostaria de agendar uma consulta na Fonseca Ferrari Odontologia Integrada.">Agendar Consulta</a>
+<a class="btn btn-outline" href="#cardapio">Ver Especialidades</a>
+</div>
+</div>
+<div class="hero-image">
+<img src="assets/images/hero/hero.jpg" alt="Fonseca Ferrari Odontologia Integrada">
+</div>
+</div>
+</section>
+
+<section id="sobre"><div class="container"><h2 class="section-title">Nossa Clínica</h2><p class="section-subtitle">A Fonseca Ferrari Odontologia Integrada foi fundada com o propósito de promover um atendimento de qualidade e personalizado aos seus pacientes. Nosso propósito é nos colocarmos no lugar do paciente, ouvindo seus feedbacks para entender suas dúvidas e necessidades e promover a experiência que ele espera. Somos comprometidos com o meio ambiente e com o ser humano. Se você busca um diferencial no seu tratamento, com profissionais com excelentes qualificações no mercado, sem dúvida seu lugar é aqui.</p></div></section>
+<section id="destaques"><div class="container"><h2 class="section-title">Nossos Diferenciais</h2><div class="grid"></div></div></section>
+<section id="cardapio"><div class="container"><h2 class="section-title">Especialidades</h2><div id="menu-content"></div></div></section>
+<section id="convenios" class="convenios-section"><div class="container"><h2 class="section-title">Convênios Aceitos</h2><p class="section-subtitle">Trabalhamos com os principais convênios odontológicos da região. Confira a cobertura de cada um.</p><div id="convenios-content" class="grid"></div></div></section>
+<section id="galeria"><div class="container"><h2 class="section-title">Galeria</h2><div class="grid"></div></div></section>
+<section id="depoimentos"><div class="container"><h2 class="section-title">Avaliações</h2><p class="section-subtitle">Alguns dos feedbacks que nos fazem ter certeza que estamos no caminho certo — sempre buscando o melhor atendimento aos nossos pacientes.</p><div class="depoimentos-layout"><div class="grid"></div><div class="depoimentos-print"><img src="assets/images/depoimentos/feedback-google.jpg" alt="Print de avaliações reais de pacientes no Google" loading="lazy"></div></div></div></section>
+<section id="faq"><div class="container"><h2 class="section-title">Perguntas Frequentes</h2><div id="faq-list"></div></div></section>
+<section id="contato" class="contact-section">
+
+    <div class="container">
+
+        <div class="section-header">
+
+            <h2 class="section-title">
+                Entre em Contato
+            </h2>
+
+            <p class="section-subtitle">
+                Será um prazer receber você. Faça sua reserva ou fale conosco através dos canais abaixo.
+            </p>
+
+        </div>
+
+        <div class="contact-layout">
+
+            <!-- ========================= -->
+            <!-- COLUNA ESQUERDA -->
+            <!-- ========================= -->
+
+            <div class="contact-grid">
+
+                <!-- Telefone -->
+
+                <article class="contact-card">
+
+                    <div class="contact-card-icon">
+    <i class="fa-solid fa-phone"></i>
+</div>
+
+                    <div class="contact-card-content">
+
+                        <span class="contact-label">
+                            TELEFONE
+                        </span>
+
+                        <a
+                            id="contact-phone"
+                            class="contact-value"
+                            href="#">
+                            +55 (11) 99999-9999
+                        </a>
+
+                    </div>
+
+                </article>
+
+                <!-- WhatsApp -->
+
+                <article class="contact-card">
+
+                    <div class="contact-card-icon">
+    <i class="fa-brands fa-whatsapp"></i>
+</div>
+
+                    <div class="contact-card-content">
+
+                        <span class="contact-label">
+                            WHATSAPP
+                        </span>
+
+                        <a
+                            id="contact-whatsapp"
+                            class="contact-value"
+                            href="#"
+                            target="_blank"
+                            rel="noopener">
+
+                            Conversar agora
+
+                        </a>
+
+                    </div>
+
+                </article>
+
+                <!-- Endereço -->
+
+                <article class="contact-card">
+
+                    <div class="contact-card-icon">
+    <i class="fa-solid fa-location-dot"></i>
+</div>
+
+                    <div class="contact-card-content">
+
+                        <span class="contact-label">
+                            ENDEREÇO
+                        </span>
+
+                        <p
+                            id="contact-address-line1"
+                            class="contact-value">
+                            Av. das Palmeiras, 1234
+                        </p>
+
+                        <p
+                            id="contact-address-line2"
+                            class="contact-small">
+                            Jardim das Flores
+                        </p>
+
+                        <p
+                            id="contact-address-line3"
+                            class="contact-small">
+                            São Paulo - SP
+                        </p>
+
+                    </div>
+
+                </article>
+
+                <!-- Funcionamento -->
+
+                <article class="contact-card">
+
+                    <div class="contact-card-icon">
+    <i class="fa-regular fa-clock"></i>
+</div>
+
+                    <div class="contact-card-content">
+
+                        <span class="contact-label">
+                            FUNCIONAMENTO
+                        </span>
+
+                        <div
+                            id="business-hours"
+                            class="contact-hours">
+                        </div>
+
+                    </div>
+
+                </article>
+
+            </div>
+
+            <!-- ========================= -->
+            <!-- COLUNA DIREITA -->
+            <!-- ========================= -->
+
+            <div class="contact-map-wrapper">
+
+                <div id="mapa"></div>
+
+                <div class="social-bar">
+
+                    <a
+                        id="instagram-link"
+                        href="#"
+                        target="_blank"
+                        rel="noopener"
+                        aria-label="Instagram">
+
+                        <i class="fa-brands fa-instagram"></i>
+
+                    </a>
+
+                    <a
+                        id="facebook-link"
+                        href="#"
+                        target="_blank"
+                        rel="noopener"
+                        aria-label="Facebook">
+
+                        <i class="fa-brands fa-facebook-f"></i>
+
+                    </a>
+
+                    <a
+                        id="tiktok-link"
+                        href="#"
+                        target="_blank"
+                        rel="noopener"
+                        aria-label="TikTok">
+
+                        <i class="fa-brands fa-tiktok"></i>
+
+                    </a>
+
+                    <a
+                        id="youtube-link"
+                        href="#"
+                        target="_blank"
+                        rel="noopener"
+                        aria-label="YouTube">
+
+                        <i class="fa-brands fa-youtube"></i>
+
+                    </a>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+</main>
+
+<footer>
+<div class="container">
+<p>&copy; 2026 Fonseca Ferrari Odontologia Integrada. Todos os direitos reservados.</p>
+</div>
+</footer>
+
+<!-- Scripts: main.js primeiro (núcleo), demais módulos em seguida -->
+<script src="assets/js/main.js"></script>
+<script src="assets/js/menu.js"></script>
+<script src="assets/js/animations.js"></script>
+<script src="assets/js/gallery.js"></script>
+<script src="assets/js/whatsapp.js"></script>
+<script src="assets/js/content.js"></script>
+<script src="assets/js/convenios.js"></script>
+<script src="assets/js/map.js"></script>
+<script src="assets/js/contact.js"></script>
+</body>
+</html>

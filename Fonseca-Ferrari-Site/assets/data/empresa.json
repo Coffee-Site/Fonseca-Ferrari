@@ -1,0 +1,71 @@
+{
+  "nome": "Fonseca Ferrari Odontologia Integrada",
+  "slogan": "Promovendo seu melhor sorriso.",
+  "descricaoCurta": "Clínica odontológica em Taboão da Serra especializada em Ortodontia, Implantes, Facetas e Canal, com atendimento humanizado e personalizado para cada paciente.",
+  "descricaoLonga": "A Fonseca Ferrari Odontologia Integrada foi fundada com o propósito de promover um atendimento de qualidade e personalizado aos seus pacientes. Nosso propósito é nos colocarmos no lugar do paciente, ouvindo seus feedbacks para entender suas dúvidas e necessidades e promover a experiência que ele espera. Nosso objetivo é ser reconhecida como uma das melhores clínicas odontológicas da região. Somos comprometidos com o meio ambiente e com o ser humano. Se você busca um diferencial no seu tratamento, com profissionais com excelentes qualificações no mercado, sem dúvida seu lugar é aqui.",
+
+  "logo": "assets/images/logo/logo.png",
+  "logoAlt": "assets/images/logo/logo-fundo-branco.png",
+  "favicon": "assets/images/favicon/favicon.ico",
+
+  "contato": {
+    "telefone": "+55 (11) 99912-8082",
+    "telefoneLink": "5511999128082",
+    "email": "",
+    "whatsapp": "5511999128082",
+    "whatsappMensagemPadrao": "Olá! Gostaria de agendar uma consulta na Fonseca Ferrari Odontologia Integrada."
+  },
+
+  "endereco": {
+    "logradouro": "Estr. São Francisco, 1199",
+    "bairro": "Jardim Henriqueta",
+    "cidade": "Taboão da Serra",
+    "estado": "SP",
+    "cep": "06764-290",
+    "pais": "Brasil",
+    "referencia": "",
+    "latitude": -23.6202,
+    "longitude": -46.7969,
+    "googleMapsUrl": "https://www.google.com/maps/search/?api=1&query=Fonseca+Ferrari+Odontologia+Integrada+Estr.+São+Francisco+1199+Taboão+da+Serra"
+  },
+
+  "horarioFuncionamento": [
+    { "dia": "Segunda-feira", "abertura": "08:00", "fechamento": "18:00", "fechado": false, "intervalo": "12:00–14:00" },
+    { "dia": "Terça-feira", "abertura": "08:00", "fechamento": "18:00", "fechado": false, "intervalo": "12:00–14:00" },
+    { "dia": "Quarta-feira", "abertura": "08:00", "fechamento": "18:00", "fechado": false, "intervalo": "12:00–14:00" },
+    { "dia": "Quinta-feira", "abertura": "08:00", "fechamento": "18:00", "fechado": false, "intervalo": "12:00–14:00" },
+    { "dia": "Sexta-feira", "abertura": "08:00", "fechamento": "18:00", "fechado": false, "intervalo": "12:00–14:00" },
+    { "dia": "Sábado", "abertura": "08:00", "fechamento": "12:00", "fechado": false },
+    { "dia": "Domingo", "abertura": null, "fechamento": null, "fechado": true }
+  ],
+
+  "redesSociais": {
+    "instagram": "https://www.instagram.com/fonsecaferrariodonto/",
+    "facebook": "https://www.facebook.com/fonsecaferrariodontologia/",
+    "tiktok": "",
+    "youtube": ""
+  },
+
+  "avaliacoes": {
+    "notaMedia": 5.0,
+    "totalAvaliacoes": 11,
+    "googlePlaceId": ""
+  },
+
+  "especialidadesChave": ["Ortodontia", "Implantes", "Facetas", "Canal (Endodontia)", "Clínico Geral"],
+
+  "seo": {
+    "tituloPagina": "Fonseca Ferrari Odontologia Integrada | Clínica Odontológica em Taboão da Serra",
+    "metaDescricao": "Clínica Odontológica em Taboão da Serra. Ortodontia, Implantes, Facetas, Canal e Clínico Geral. Atendimento humanizado. Aceitamos SulAmérica, Hapvida e Rede Brazil Dental.",
+    "metaKeywords": "clinica odontologica taboao da serra, dentista taboao, ortodontia, implante dentario, facetas, canal, endodontia, sulamerica odonto, hapvida",
+    "canonical": "https://www.fonsecaferrariodontologia.com.br/",
+    "ogImage": "assets/images/hero/hero.jpg",
+    "schemaType": "Dentist"
+  },
+
+  "analytics": {
+    "googleAnalyticsId": "",
+    "googleSearchConsole": "",
+    "metaPixelId": ""
+  }
+}

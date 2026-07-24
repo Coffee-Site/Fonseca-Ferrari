@@ -1,0 +1,58 @@
+{
+  "depoimentos": [
+    {
+      "id": "dep-01",
+      "nome": "Naimy",
+      "foto": "",
+      "nota": 5,
+      "texto": "Ótimo atendimento desde a recepção. Fui muito bem atendida pelo Doutor Antoniel, excelente profissional. Achei a clínica maravilhosa, bem limpa e cheirosa. Super recomendo.",
+      "data": "2026",
+      "origem": "Google"
+    },
+    {
+      "id": "dep-02",
+      "nome": "Natalie",
+      "foto": "",
+      "nota": 5,
+      "texto": "Excelente atendimento pela recepção e pelos doutores, com um trabalho de qualidade e precisão. Agradeço muito.",
+      "data": "2026",
+      "origem": "Google"
+    },
+    {
+      "id": "dep-03",
+      "nome": "Fernanda",
+      "foto": "",
+      "nota": 5,
+      "texto": "Preciso agradecer à Dra. Luiza, com mãos de fada. Fui muito bem atendida por toda a equipe.",
+      "data": "2026",
+      "origem": "Google"
+    },
+    {
+      "id": "dep-04",
+      "nome": "Gabriel",
+      "foto": "",
+      "nota": 5,
+      "texto": "A Dra. Luiza e o Dr. Elton foram pacientes, atenciosos e muito cuidadosos comigo, excelentes profissionais. Além disso, o consultório é extremamente limpo e organizado.",
+      "data": "2026",
+      "origem": "Google"
+    },
+    {
+      "id": "dep-05",
+      "nome": "Raimundo",
+      "foto": "",
+      "nota": 5,
+      "texto": "Atendimento ótimo que nunca falha. Passo desde sempre com o Dr. Helton e não me arrependo, nem troco.",
+      "data": "2026",
+      "origem": "Google"
+    },
+    {
+      "id": "dep-06",
+      "nome": "João",
+      "foto": "",
+      "nota": 5,
+      "texto": "Excelentes profissionais, ambiente calmo e tranquilo. Uma das melhores clínicas — se não a melhor — de Taboão da Serra.",
+      "data": "2026",
+      "origem": "Google"
+    }
+  ]
+}
